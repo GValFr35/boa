@@ -24,7 +24,7 @@ filIncO="octopus.sh.cnf"
 octName="OCTOPUS.sh.txt"
 pthIncB="lib/settings/${filIncB}"
 pthIncO="lib/settings/${filIncO}"
-rgUrl="https://raw.githubusercontent.com/omega8cc/boa"
+rgUrl="https://raw.githubusercontent.com/GValFr35/boa"
 vBs="/var/backups"
 
 _TODAY=$(date +%y%m%d 2>&1)
