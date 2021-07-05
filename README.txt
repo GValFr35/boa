@@ -1,4 +1,20 @@
 
+Fork from omega8cc/boa
+
+https://raw.githubusercontent.com/omega8cc/boa
+are replaced by
+https://raw.githubusercontent.com/GValFr35/boa
+
+
+github.com/omega8cc"
+are replaced by
+github.com/GValFr35"
+
+
+
+-------------------------------------------------
+
+
 ### README
 
 BOA is an acronym of high performance Barracuda, Octopus and Aegir LEMP stack.
